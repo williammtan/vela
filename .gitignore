@@ -1,0 +1,6 @@
+.env
+.env.*
+*.env
+experiments/**/receipts.jsonl
+*.log
+client_secret*.json
